@@ -22,3 +22,5 @@ After building the Docker image, you can start it up by using the following comm
 ```shell
 docker run -p 3000:3000 simple-nodejs-server
 ```
+
+When the container is running, you can navigate to `http://localhost:3000` to check that the server is running.
